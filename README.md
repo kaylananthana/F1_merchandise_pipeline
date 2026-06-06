@@ -29,7 +29,7 @@ team merchandise preferences** across gender and age segments.
 ## File
 - `objective3_demographic_segmentation.ipynb` — full pipeline 
 
-- ## Visualizations
+## Visualizations
 
 **Team Merchandise Preferences by Demographic**
 ![Demographic by Team](demographic_by_team.png)
