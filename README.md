@@ -27,7 +27,7 @@ team merchandise preferences** across gender and age segments.
 - ETL/ELT pipeline design
 
 ## File
-- `objective3_demographic_segmentation.ipynb` — full pipeline 
+- [objective3_demographic_segmentation.ipynb](objective3_demographic_segmentation.ipynb) — full pipeline
 
 ## Visualizations
 
